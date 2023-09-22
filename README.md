@@ -5,8 +5,8 @@ Students at : Rattanakosinsompoch Bangkhunthian School
 
 - 💻 RST Class ComSci 5/8 ...
 - 💬 Interested in :
-Coding🤔
-Programming📫
-Algoriehm😄
-CreateGame⚡
-WebProgramming...
+- 🤔 Coding
+- 📫 Programming
+- 😄 Algoriehm
+- ⚡ CreateGame
+- ✨ WebProgramming...
